@@ -12,21 +12,21 @@
 10. Federated Mutual Learning
 11. Network-Aware Optimization of Distributed Learning for Fog Computing
 12. On the Design of Communication Effificient Federated Learning over Wireless Networks
-13 Client Selection and Bandwidth Allocation in Wireless Federated Learning Networks: A Long-Term Perspective
+13. Client Selection and Bandwidth Allocation in Wireless Federated Learning Networks: A Long-Term Perspective
 14. Energy-Effificient Federated Edge Learning with Joint Communication and Computation Design
 15. Federated Learning in the Sky: Joint Power Allocation and Scheduling with UAV Swarms
-16 Towards Effificient Scheduling of Federated Mobile Devices under Computational and Statistical Heterogeneity
-17 Think Locally, Act Globally: Federated Learning with Local and Global Representations
-18 Three Approaches for Personalization with Applications to Federated Learning
-19 Overcoming Noisy and Irrelevant Data in Federated Learning
-20 Think Locally, Act Globally: Federated Learning with Local and Global Representations. NeurIPS 2019 Workshop on Federated Learning distinguished student paper award
-21 Federated Machine Learning: Concept and Applications
-22 Federated Learning for Task and Resource Allocation in Wireless High Altitude Balloon Networks
-23 DeCaf: Iterative Collaborative Processing over the Edge
-24 Astraea: Self-balancing Federated Learning for Improving Classifification Accuracy of Mobile Deep Learning Applications
-25 FEDCD: IMPROVING PERFORMANCE IN NON-IID FEDERATED LEARNING
-26 Personalized Federated Learning for Intelligent IoT Applications: A Cloud-Edge based Framework
-27 Advancements of federated learning towards privacy preservation: from federated learning to split learning
-28 Fast-Convergent Federated Learning with Adaptive Weighting
-29 FEDERATED LEARNING WITH MATCHED AVERAGING
-30 Towards Flexible Device Participation in Federated Learning for Non-IID Data
+16. Towards Effificient Scheduling of Federated Mobile Devices under Computational and Statistical Heterogeneity
+17. Think Locally, Act Globally: Federated Learning with Local and Global Representations
+18. Three Approaches for Personalization with Applications to Federated Learning
+19. Overcoming Noisy and Irrelevant Data in Federated Learning
+20. Think Locally, Act Globally: Federated Learning with Local and Global Representations. NeurIPS 2019 Workshop on Federated Learning distinguished student paper award
+21. Federated Machine Learning: Concept and Applications
+22. Federated Learning for Task and Resource Allocation in Wireless High Altitude Balloon Networks
+23. DeCaf: Iterative Collaborative Processing over the Edge
+24. Astraea: Self-balancing Federated Learning for Improving Classifification Accuracy of Mobile Deep Learning Applications
+25. FEDCD: IMPROVING PERFORMANCE IN NON-IID FEDERATED LEARNING
+26. Personalized Federated Learning for Intelligent IoT Applications: A Cloud-Edge based Framework
+27. Advancements of federated learning towards privacy preservation: from federated learning to split learning
+28. Fast-Convergent Federated Learning with Adaptive Weighting
+29. FEDERATED LEARNING WITH MATCHED AVERAGING
+30. Towards Flexible Device Participation in Federated Learning for Non-IID Data
