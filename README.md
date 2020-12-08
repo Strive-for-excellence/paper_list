@@ -1,11 +1,11 @@
 # paper_list
 
 1. GNN & federeted learning
-2.Gradient Sparifification for Asynchronous Distributed Training
+2. Gradient Sparifification for Asynchronous Distributed Training
 3. Dynamic Sampling and Selective Masking for Communication-Efficient Federated Learning
 4. Decentralized Federated Learning: A Segmented Gossip Approach
 5. FEDERATED LEARNING: STRATEGIES FOR IMPROVING COMMUNICATION EFFICIENCY
-6.Robust Federated Learning: The Case of Affiffiffine Distribution Shifts
+6. Robust Federated Learning: The Case of Affiffiffine Distribution Shifts
 7. SplitFed: When Federated Learning Meets Split Learning
 8. Towards Effffective Device-Aware Federated Learning
 9. SplitFed: When Federated Learning Meets Split Learning （nips2020)
