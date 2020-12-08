@@ -42,4 +42,4 @@
 40. 'ICLR2020 federated adversarial domain adaptation.pdf'
 41. 'ICML2020 Federated Learning with Only Positive Labels.pdf'
 42. 'Resource-Aware Federated Learning on heterogeneous Edge Devices.pdf'
-43. 'Robust Federated Learning in a HeterogeneousEnvironment.pdf'
+43. 'Robust Federated Learning in a Heterogeneous Environment.pdf'
