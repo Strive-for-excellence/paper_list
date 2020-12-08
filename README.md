@@ -12,8 +12,7 @@
 10. Federated Mutual Learning
 11.Network-Aware Optimization of Distributed Learning for Fog Computing
 12. On the Design of Communication Effificient Federated Learning over Wireless Networks
-13 Client Selection and Bandwidth Allocation in Wireless Federated Learning Networks: A
-Long-Term Perspective
+13 Client Selection and Bandwidth Allocation in Wireless Federated Learning Networks: A Long-Term Perspective
 14.Energy-Effificient Federated Edge Learning with Joint Communication and Computation Design
 15. Federated Learning in the Sky: Joint Power Allocation and Scheduling with UAV Swarms
 16 Towards Effificient Scheduling of Federated Mobile Devices under Computational and Statistical Heterogeneity
