@@ -30,3 +30,16 @@
 28. Fast-Convergent Federated Learning with Adaptive Weighting
 29. FEDERATED LEARNING WITH MATCHED AVERAGING
 30. Towards Flexible Device Participation in Federated Learning for Non-IID Data
+31. (ICML)Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks.pdf
+32. '(MIT)Personalized Federated Learning A Meta-Learning.pdf'
+33. '(NeurIPS)Adaptive Gradient-Based Meta-Learning Methods.pdf'
+34. 'Distributed Learning on Heterogeneous Resource-Constrained Devices.pdf'
+35. 'Ensemble Distillation for Robust Model Fusion in Federated Learning.pdf'
+36. 'Experience-Driven Computational Resource Allocation.pdf'
+37. 'Federated learning Strategies for improving communication efficiency.pdf'
+38. 'Heterogenous Federated Learning via Model Distillation.pdf'
+39. 'ICLR2020 fair resource allocation in federated learning(1).pdf'
+40. 'ICLR2020 federated adversarial domain adaptation.pdf'
+41. 'ICML2020 Federated Learning with Only Positive Labels.pdf'
+42. 'Resource-Aware Federated Learning on heterogeneous Edge Devices.pdf'
+43. 'Robust Federated Learning in a HeterogeneousEnvironment.pdf'
