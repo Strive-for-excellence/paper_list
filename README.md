@@ -18,8 +18,7 @@ Long-Term Perspective
 15. Federated Learning in the Sky: Joint Power Allocation and Scheduling with UAV Swarms
 16 Towards Effificient Scheduling of Federated Mobile Devices under Computational and Statistical Heterogeneity
 17 Think Locally, Act Globally: Federated Learning with Local and Global Representations
-18 Three Approaches for Personalization with Applications to Federated
-Learning
+18 Three Approaches for Personalization with Applications to Federated Learning
 19 Overcoming Noisy and Irrelevant Data in Federated Learning
 20 (*) Think Locally, Act Globally: Federated Learning with Local and Global Representations. NeurIPS 2019 Workshop on Federated Learning distinguished student paper award
 21 Federated Machine Learning: Concept and Applications
